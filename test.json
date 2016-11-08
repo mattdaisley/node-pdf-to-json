@@ -1,0 +1,33 @@
+{
+  "formImage": {
+    "Transcoder": "pdf2json@1.1.7 [https://github.com/modesty/pdf2json]",
+    "Agency": "Adobe Photoshop PDF",
+    "Id": {
+      "AgencyId": "unknown",
+      "Name": "unknown",
+      "MC": false,
+      "Max": -1,
+      "Parent": -1
+    },
+    "Pages": [
+      {
+        "Height": 49.5,
+        "HLines": [],
+        "VLines": [],
+        "Fills": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0,
+            "clr": 1
+          }
+        ],
+        "Texts": [],
+        "Fields": [],
+        "Boxsets": []
+      }
+    ],
+    "Width": 38.25
+  }
+}
